@@ -1,6 +1,7 @@
 # Accenture-Internship-project
 Virtual intership
 clint:- Social buzz san fransisco. content creastion and digital marketing company.
+
 probem:- from last 3 years company grown very fast. in 16 content category daily 100K posts, yearly 36 million posts. this huge data require big technology and man power          to manage.
          out of 250 employees 200 engage to manage it. so they want to reduce load. want to focus on top 5 content category which have good responce from social media            users.
          
